@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import { Component } from "react";
 import "./App.css";
-// import Pgone from './pg1';
+import Pgone from './pg1';
 // import Pgtwo from './pg2';
 
 class App extends Component {
@@ -33,7 +33,7 @@ class App extends Component {
         </button>
         {
         }
-        {/* <Pgone/> */}
+        <Pgone/>
         {/* <Pgtwo/> */}
       </div>
     );
